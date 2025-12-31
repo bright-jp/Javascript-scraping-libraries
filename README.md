@@ -1,6 +1,6 @@
 # ベストなJavaScript Webスクレイピングライブラリ
 
-[![Promo](https://github.com/luminati-io/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
+[![Promo](https://github.com/bright-jp/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://brightdata.jp/) 
 
 最適なツールをプロジェクト向けに見つけられるように、ベストなJavaScript Webスクレイピングライブラリ、それぞれの主要機能、そして便利な比較表をご紹介します。
 
